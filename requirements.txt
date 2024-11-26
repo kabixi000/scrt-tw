@@ -1,2 +1,4 @@
 tweepy-authlib
 python-dotenv
+twikit
+fake-useragent
